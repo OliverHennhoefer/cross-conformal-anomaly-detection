@@ -7,3 +7,6 @@ Provided code defines an experimental evaluation setup for comparing the classic
 ## Setup
 - Run with `Python 3.12 (>=3.9)`
 - Install `requirements.txt` (`pip install -r requirements.txt`)
+
+## Contact
+Ask questions, report bugs: oliver.hennhoefer@h-ka.de
