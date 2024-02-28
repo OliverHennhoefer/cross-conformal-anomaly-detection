@@ -17,7 +17,7 @@ if __name__ == "__main__":
     seed(1)
 
     # List Datasets
-    experiment_datasets = [Dataset.WBC]
+    experiment_datasets = [Dataset.FRAUD]
 
     # List Conformal Methods
     experiment_methods = [

@@ -26,7 +26,7 @@ class DataLoader:
         if dataset == "wbc":
             df = read_csv("../data/input/wbc/wbc.csv")
         if dataset == "fraud":
-            df = read_csv("../data/input/fraud/fraud.csv")
+            df = read_csv("../data/input/fraud/fraud.zip", compression='zip')
         if dataset == "shuttle":
             df = read_csv("../data/input/shuttle/shuttle.csv")
         if dataset == "mammography":
