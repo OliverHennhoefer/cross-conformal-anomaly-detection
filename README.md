@@ -1,15 +1,12 @@
-# Cross-Conformal Anomaly Detection
-Supplementary code for the paper ['Uncertainty Quantification in Anomaly Detection with (Cross-)Conformal *p*-Values'](https://arxiv.org/pdf/2402.16388.pdf)
+# Paper Supplement Repository
 
-## Uncertainty Quantification in Anomaly Detection
-The provided code defines an experimental evaluation setup for comparing the classical *inductive conformal* (or *split-conformal*) approach for anomaly detection to *cross-conformal* methods as derived from *(cross-)conformal prediction*.
+> ⚠️ **Warning: This repository is being superseded.**
+>
+> This repository is no longer the recommended reference implementation for this work.
 
-## Setup
-- Run with `Python 3.12 (>=3.9)`
-- Install `requirements.txt` (`pip install -r requirements.txt`)
+The work has been replaced by an updated paper version and a new suplementary repository under a different name:
 
-## Contact
-Ask questions, report bugs: oliver.hennhoefer@h-ka.de
+- Updated paper: [Leave-one-out-, Bootstrap- and Cross-Conformal Anomaly Detectors](https://arxiv.org/abs/2402.16388)
+- New repository: [github.com/OliverHennhoefer/resampling-cad](https://github.com/OliverHennhoefer/resampling-cad)
 
-## Conformal Inference
-To learn more about conformal inference, check out the [**awesome conformal prediction**](https://github.com/valeman/awesome-conformal-prediction) repository.
+This repository is retained for archival and reproducibility purposes only. It may not receive further updates, bug fixes, or compatibility maintenance.
